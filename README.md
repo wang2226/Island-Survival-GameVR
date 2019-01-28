@@ -5,6 +5,7 @@ You are lost on an island in a storm. Your health decreases as time goes on. You
 
 ### Game Play
 ![Alt text](https://i.ibb.co/D1xS1sS/Screen-Shot-2019-01-28-at-3-58-25-PM.jpg)
+
 YouTube Link: https://youtu.be/ry3IxGVQZ6k
 
 #### Resources
